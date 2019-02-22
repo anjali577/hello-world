@@ -1,6 +1,5 @@
 file 1
 //changes by atamish
-<<<<<<< HEAD
 new line
 //updated
 
